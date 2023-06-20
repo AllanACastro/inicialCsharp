@@ -1,0 +1,15 @@
+E:\cursos\yolo_plate\C#-musical\bin\Debug\net7.0\C#-musical.exe
+E:\cursos\yolo_plate\C#-musical\bin\Debug\net7.0\C#-musical.deps.json
+E:\cursos\yolo_plate\C#-musical\bin\Debug\net7.0\C#-musical.runtimeconfig.json
+E:\cursos\yolo_plate\C#-musical\bin\Debug\net7.0\C#-musical.dll
+E:\cursos\yolo_plate\C#-musical\bin\Debug\net7.0\C#-musical.pdb
+E:\cursos\yolo_plate\C#-musical\obj\Debug\net7.0\C#-musical.csproj.AssemblyReference.cache
+E:\cursos\yolo_plate\C#-musical\obj\Debug\net7.0\C#-musical.GeneratedMSBuildEditorConfig.editorconfig
+E:\cursos\yolo_plate\C#-musical\obj\Debug\net7.0\C#-musical.AssemblyInfoInputs.cache
+E:\cursos\yolo_plate\C#-musical\obj\Debug\net7.0\C#-musical.AssemblyInfo.cs
+E:\cursos\yolo_plate\C#-musical\obj\Debug\net7.0\C#-musical.csproj.CoreCompileInputs.cache
+E:\cursos\yolo_plate\C#-musical\obj\Debug\net7.0\C#-musical.dll
+E:\cursos\yolo_plate\C#-musical\obj\Debug\net7.0\refint\C#-musical.dll
+E:\cursos\yolo_plate\C#-musical\obj\Debug\net7.0\C#-musical.pdb
+E:\cursos\yolo_plate\C#-musical\obj\Debug\net7.0\C#-musical.genruntimeconfig.cache
+E:\cursos\yolo_plate\C#-musical\obj\Debug\net7.0\ref\C#-musical.dll
